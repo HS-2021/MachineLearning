@@ -1,0 +1,2 @@
+- Daumsoft AI lab KwangJune Choi 입니다.
+- NLP 를 중심으로 연구와 개발, 데이터 분석을 하고 있습니다.
