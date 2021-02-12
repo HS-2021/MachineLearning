@@ -1,7 +1,7 @@
 ## Git Guide
 
 - [git과 atom 연동하기](https://m.blog.naver.com/wlgh325/221443819508)
-
+- [git과 vscode 연동하기](https://technote.kr/352)
 
 ## 필수 명령어
 - git status
