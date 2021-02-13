@@ -34,11 +34,11 @@
     + commit message 기록 및 저장
     + commit
 
-- git merge origin/####
+- git merge origin/브랜치명
     + 변경 또는 추가 된 내용 병합
     + i.g. git merge origin/choi
 
-- git push origin ####
+- git push origin 브랜치명
     + repository에 반영
     
 
@@ -55,6 +55,7 @@
     + commit 메시지 작성
     + 간략, 명확할 수록 좋음
 7. git commit message 작성 후 저장
+    + git commit -m "commit message" 라고 간단하게 작성도 가능
 8. git status 확인
     + commit 이 제대로 되었을 시 특별한 메시지가 따로 뜨지 않음
 9. git push origin 브랜치명
